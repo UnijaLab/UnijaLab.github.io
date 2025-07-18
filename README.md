@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Шыфр Віжэнэра (беларуская мова)</title>
+    <title>Шыфр Віжэнера (беларуская мова)</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -27,7 +27,7 @@
     </style>
 </head>
 <body>
-    <h1>Шыфр Віжэнэра</h1>
+    <h1>Шыфр Віжэнера</h1>
     
     <label for="text">Тэкст:</label>
     <input type="text" id="text" placeholder="Увядзіце зашыфраваны тэкст...">
